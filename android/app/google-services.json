@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101658817788",
+    "project_id": "pi-catalogo-peliculas26a",
+    "storage_bucket": "pi-catalogo-peliculas26a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101658817788:android:65d3190e4711cecfa21379",
+        "android_client_info": {
+          "package_name": "com.example.pi_catalogo_peliculas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW8qe1_sIfWKhJj9z1MYuoZdMjJeKgJh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
